@@ -1,3 +1,5 @@
+[Architecture board (Miro)](https://miro.com/app/board/uXjVJWTubJs=/)
+
 # Tradex
 
 Full‑stack trading dashboard: React + TypeScript + Redux Toolkit (frontend) and Node.js + Express (backend). Realtime price updates via WebSocket. Mock data is used to accelerate development.
